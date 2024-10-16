@@ -26,11 +26,11 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
   
   2.Choose the appropriate version for your operating system:
   
-      Windows hosts (for Windows users)
+      *Windows hosts (for Windows users)
       
-      macOS hosts (for Mac users)
+      *macOS hosts (for Mac users)
       
-      Linux distributions (for Linux users)
+      *Linux distributions (for Linux users)
   
 ## Step 2: Install VirtualBox (Windows/macOS)
   For Windows:
@@ -39,13 +39,13 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
     
     2.Follow the setup wizard:
     
-        Click Next.
+        *Click Next.
         
-        Select the installation location (default is recommended).
+        *Select the installation location (default is recommended).
         
-        Choose the components you want to install and click Next.
+        *Choose the components you want to install and click Next.
         
-        The installer may show a warning about network interfaces; allow it to proceed by clicking Yes.
+        *The installer may show a warning about network interfaces; allow it to proceed by clicking Yes.
         
     3.Click Install and allow the process to complete.
 
